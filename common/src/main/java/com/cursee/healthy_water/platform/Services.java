@@ -1,7 +1,7 @@
-package com.cursee.examplemod.platform;
+package com.cursee.healthy_water.platform;
 
-import com.cursee.examplemod.Constants;
-import com.cursee.examplemod.platform.services.IPlatformHelper;
+import com.cursee.healthy_water.Constants;
+import com.cursee.healthy_water.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

@@ -1,6 +1,6 @@
-package com.cursee.examplemod.platform;
+package com.cursee.healthy_water.platform;
 
-import com.cursee.examplemod.platform.services.IPlatformHelper;
+import com.cursee.healthy_water.platform.services.IPlatformHelper;
 import net.fabricmc.loader.api.FabricLoader;
 
 public class FabricPlatformHelper implements IPlatformHelper {

@@ -1,6 +1,6 @@
-package com.cursee.examplemod.platform;
+package com.cursee.healthy_water.platform;
 
-import com.cursee.examplemod.platform.services.IPlatformHelper;
+import com.cursee.healthy_water.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

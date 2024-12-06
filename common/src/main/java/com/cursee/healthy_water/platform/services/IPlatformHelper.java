@@ -1,4 +1,4 @@
-package com.cursee.examplemod.platform.services;
+package com.cursee.healthy_water.platform.services;
 
 public interface IPlatformHelper {
 

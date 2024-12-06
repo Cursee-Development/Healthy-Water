@@ -1,7 +1,7 @@
-package com.cursee.examplemod.mixin;
+package com.cursee.healthy_water.mixin;
 
-import com.cursee.examplemod.Constants;
-import com.cursee.examplemod.platform.Services;
+import com.cursee.healthy_water.Constants;
+import com.cursee.healthy_water.platform.Services;
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
